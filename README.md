@@ -8,7 +8,7 @@
 ## 🚀 Sobre mim
 - 💡 Estou sempre aprendendo e criando projetos em **Java**, **HTML**, **CSS** e **JavaScript**  
 - 🎮 Curto jogos como **CS** 
-- 🍔 Também trabalho com **restaurante**, vendendo para uma **casa de shows**  
+- 🍔 Também trabalho com **restaurante**, trabalhando em **TÉCNICO em TI**
 - 📘 Atualmente estudando **Lógica de Programação**, **Análise do Discurso** e **Modelos de Maturidade (CMMI)**
 
 ---
@@ -32,7 +32,7 @@
 
 ## 📫 Contato
 📧 **Email:** [lucasdacruz297@gmail.com](mailto:lucasdacruz297@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)
+💼 **LinkedIn:** [www.linkedin.com/in/lucas-cruz-a24374395](www.linkedin.com/in/lucas-cruz-a24374395)
 
 ---
 
